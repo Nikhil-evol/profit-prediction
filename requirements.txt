@@ -17,8 +17,7 @@ pydantic_core==2.46.4
 python-multipart==0.0.30
 
 requests==2.34.2
-
-scikit-learn==1.6.1
+scikit-learn==1.7.2
 
 shap==0.51.0
 
